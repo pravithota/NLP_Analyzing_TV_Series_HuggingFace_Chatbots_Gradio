@@ -1,7 +1,7 @@
 Scrapy
 beautifulsoup4
 bs4
-transformers==4.44.0
+transformers==4.36.0
 huggingface_hub
 huggingface
 nltk
@@ -15,3 +15,13 @@ pandas
 gradio
 seaborn
 matplotlib
+curated-tokenizers==0.0.9
+curated-transformers==0.1.1
+en-core-web-trf==3.7.3
+spacy-curated-transformers==0.2.2
+spacy-transformers==1.3.5
+pyvis==0.3.2
+networkx
+datasets
+evaluate
+python-dotenv
