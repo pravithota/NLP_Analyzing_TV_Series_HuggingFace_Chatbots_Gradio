@@ -25,3 +25,6 @@ networkx
 datasets
 evaluate
 python-dotenv
+peft
+trl==0.9.6
+bitsandbytes==0.43.3
