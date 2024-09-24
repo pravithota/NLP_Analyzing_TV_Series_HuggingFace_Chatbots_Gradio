@@ -1,0 +1,17 @@
+Scrapy
+beautifulsoup4
+bs4
+transformers==4.44.0
+huggingface_hub
+huggingface
+nltk
+torch
+torchvision
+torchaudio
+tensorflow
+sentence-transformers
+tf-keras==2.16.0
+pandas
+gradio
+seaborn
+matplotlib
